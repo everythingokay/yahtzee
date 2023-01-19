@@ -1,13 +1,13 @@
 /* Original Styles For Numbers, before icons added in */
 .Die {
-  font-size: 25px;
-  display: inline-block;
-  padding: 0.5em 0.8em;
-  font-family: monospace;
-  font-weight: bold;
-  background-color: black;
-  color: white;
-  margin-right: 1em;
+    font-size: 25px;
+    display: inline-block;
+    padding: 0.5em 0.8em;
+    font-family: monospace;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    margin-right: 1em;
 }
 
 /* THE NICER STYLES MADE FOR THE FONT-AWESOME ICONS... */
