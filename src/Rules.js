@@ -66,8 +66,8 @@ class FullHouse extends Rule {
 
 /** Check for small straights. */
 
-class SmallStraight {
-    evalRoll = (dice) => {
+class SmallStraight extends Rule {
+    evalRoll = dice => {
         const d = new Set(dice);
 
         // straight 234 + either 1 or 5
